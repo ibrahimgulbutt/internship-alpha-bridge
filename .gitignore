@@ -1,6 +1,8 @@
 # Ignore node_modules in all subfolders
 **/node_modules/
 **/venv/
+/venv/
+venv/
 
 # Ignore pnp files in all subfolders
 **/.pnp
