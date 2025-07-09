@@ -4,6 +4,9 @@
 /venv/
 venv/
 
+**/__pycache__/
+
+
 # Ignore pnp files in all subfolders
 **/.pnp
 **/.pnp.js
